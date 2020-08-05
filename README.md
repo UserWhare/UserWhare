@@ -1,10 +1,10 @@
 ### I'm Yusuke - [Discord][discord] 👋
 
 ## Sou: Vagabundo - Desenvolvedor - Otaku - Gamer
-- 🔭 Atualmente Estou Aprendendo Tudo 🤣
-- 🌱 Sou Bem Detalhista..
-- 🥅 Objetivos Para 2020: Conheçer Uma Bela Programadora Japonesa 🤣
-- ⚡ Gosto De: Coreanas - Jogar - Ver Filmes - Criar
+- 👽 Como Sempre Aprendendo De Tudo Um Pouco
+- 👀 Detalhista..
+- 💎 2020 = Conheçer Uma Bela Programadora Japonesa 🤣
+- ⚡ Liked: Coreanas - Jogar - Ver Filmes - Criar
 
 ### Social:
 
