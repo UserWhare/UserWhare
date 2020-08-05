@@ -1,4 +1,4 @@
-### Olá, Sou O Yusuke - YsK [Discord][discord] 👋
+### Olá, Sou O Yusuke - [Discord][discord] 👋
 
 ## Atualmente Sou: Vagabundo - Desenvolvedor - Otaku - Gamer
 - 🔭 Atualmente Estou Aprendendo Tudo 🤣
