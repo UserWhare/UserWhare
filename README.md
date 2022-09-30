@@ -1,5 +1,5 @@
 <div class="Yusuke" style="display: inline_block">
-    <h1><img src="https://www.nicepng.com/png/full/168-1683047_japanese-transparent-samurai-samurai-kanji.png" height= 110px;></h1>
+    <h1><img src="https://i.imgur.com/zCC8QDx.gif"></h1>
     <a href="https://github.com/UserWhare">
   </a>
 </div>
