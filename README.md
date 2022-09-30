@@ -1,5 +1,5 @@
 <div class="Yusuke" style="display: inline_block">
-    <h1><img src="https://cdn.discordapp.com/attachments/850441449661399051/896106095645442098/BRABU_waifu2x_art_noise3_tta_1.png" height= 110px;></h1>
+    <h1><img src="https://www.nicepng.com/png/full/168-1683047_japanese-transparent-samurai-samurai-kanji.png" height= 110px;></h1>
     <a href="https://github.com/UserWhare">
   </a>
 </div>
@@ -26,10 +26,10 @@
 </div>
 <div class="Social" style="display: inline_block">
     <h4>Blood</h4>
-    <a href="https://discords.com/bio/p/ysk0x5"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <a href="https://discord.com/users/940390599742357554/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     <a href="https://www.instagram.com/userwhare/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     <a href="https://twitter.com/Ysk_0x5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    <a href="https://www.twitch.tv/Yusukexs"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    <a href="https://www.twitch.tv/Skarzian"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     <a href="https://www.youtube.com/channel/UCt1U-ENl0nwEY-1r66CGu2w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
    </a>
 </div>
