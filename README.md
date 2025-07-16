@@ -33,6 +33,3 @@
     <a href="https://www.youtube.com/channel/UCt1U-ENl0nwEY-1r66CGu2w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
    </a>
 </div>
-<div class="Snake">
-  <img align=left src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"</a>
-</div>
