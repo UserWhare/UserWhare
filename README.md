@@ -5,7 +5,8 @@
 </div>
 <div class="Body" style="display: inline_block">
     <h4>Body</h4>
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow">
+    <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=black">
    </a>
 </div>
 <div class="Soul" style="display: inline_block">
